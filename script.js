@@ -1,5 +1,6 @@
 /* ============================================================
    BARBEARIA NAVALHA DE OURO — script.js (v2 · out/2026)
+   Autor IA: Claude Sonnet 4.5 (Anthropic) — ver CREDENCIAIS.md
    Vanilla JS, sem dependências. Índice:
    1. Configuração central (número WhatsApp, horários, feriados)
    2. Utilidades de data
